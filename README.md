@@ -8,6 +8,7 @@ interact with nodes on the page? Well, we _listen_ for them!
 
 ## Objectives
 
+
 1.  Demonstrate listening to events on a DOM node with `addEventListener()`
 2.  Demonstrate triggering events listeners on DOM nodes
 3.  Demonstrate preventing the default behavior for DOM nodes
